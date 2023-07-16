@@ -18,4 +18,5 @@ Node.js v18.16.1
 **Functionality**
 
 Creating rooms, managing Django sessions, changing settings on the go, API interactions, Controlling your Spotify music.
+
 (You need Spotify Premium to play/pause or skip the music from this app)
